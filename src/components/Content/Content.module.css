@@ -1,0 +1,10 @@
+.main{
+    padding: 10px 50px;
+    font-weight: 700;
+}
+.login{
+    color: red;
+}
+.logout{
+    color: green;
+}

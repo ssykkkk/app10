@@ -1,0 +1,17 @@
+.header{
+    background-color: rgb(199, 199, 199);
+    padding: 20px;
+}
+.butt{
+    border: 1px solid white;
+    padding: 10px 50px;
+    border-radius: 10px;
+    transition: .5s;
+    cursor: pointer;
+    font-weight: 700;
+}
+.butt:hover{
+    background-color: rgb(90, 90, 228);
+    color: white;
+
+}
